@@ -1,0 +1,7 @@
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json
+C:\Users\yarsi\xocl404\src\Lab1\obj\Debug\net8.0\Lab1.xml
